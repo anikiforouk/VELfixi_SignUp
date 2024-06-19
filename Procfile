@@ -1,1 +1,1 @@
-node api/send-email/index.js
+web: node api/send-email/index.js
