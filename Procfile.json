@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "node api/send-email/index.js"
+  }
+  
+}
+  
